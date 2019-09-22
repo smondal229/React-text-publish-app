@@ -1,0 +1,18 @@
+.statusForm{
+  margin: 3em;
+}
+.statusText {
+  padding: 1em;
+  font-size: 1.5em;
+  background-color: transparent;
+  border: 2px solid grey;
+  border-radius: 0.3em;
+  width: 400px;
+  height: 150px;
+}
+
+.published{
+  margin: 3em;
+  font-size: 2em;
+  text-align: center;
+}
